@@ -1,0 +1,8 @@
+## Interface: 11320
+## Title: DoMeWhen Classic - Test Plugin
+## Author: Fisker
+## Notes: Testing plugins
+## DefaultState: Disabled
+## Dependencies: DoMeWhen-Classic
+
+Plugin.lua
